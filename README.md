@@ -1,3 +1,6 @@
+> 历史仓库。源码和数据已保留在 [oldphones showcase](https://github.com/Jackela/sydney-tut9-g5-oldphonesales-showcase)。原提交历史另有完整备份；本仓不再维护。
+> Historical duplicate. Use the showcase for source and data. This repository is no longer maintained.
+
 # E-commerce Platform for Used Phones (TUT9-G5)
 
 A full-stack e-commerce platform for selling used phones, built with the MERN stack.
